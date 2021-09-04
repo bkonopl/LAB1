@@ -1,0 +1,6 @@
+/home/bogdan/RiderProjects/KonLab5/KonLab5/obj/Debug/KonLab5.csprojAssemblyReference.cache
+/home/bogdan/RiderProjects/KonLab5/KonLab5/obj/Debug/KonLab5.csproj.CoreCompileInputs.cache
+/home/bogdan/RiderProjects/KonLab5/KonLab5/bin/Debug/KonLab5.exe
+/home/bogdan/RiderProjects/KonLab5/KonLab5/bin/Debug/KonLab5.pdb
+/home/bogdan/RiderProjects/KonLab5/KonLab5/obj/Debug/KonLab5.exe
+/home/bogdan/RiderProjects/KonLab5/KonLab5/obj/Debug/KonLab5.pdb
